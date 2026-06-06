@@ -1,4 +1,5 @@
-````md
+
+
 <div align="center">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Kavidu Udayanthe
@@ -65,7 +66,7 @@ Mindset:
 ### 💻 Programming & Scripting
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,javascript,bash,java,linux,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,bash,java,linux,git,vscode,c,cs,cpp,css,html,mysql" />
 </p>
 
 ### 🔐 Cybersecurity Tools
@@ -124,11 +125,6 @@ Mindset:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashuraweismann&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuraweismann&layout=compact&theme=chartreuse-dark&hide_border=true" />
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashuraweismann&theme=chartreuse-dark&hide_border=true" />
 
@@ -140,7 +136,7 @@ Mindset:
 
 <p align="center">
 <a href="https://tryhackme.com/p/ashuraweismann" target="_blank">
-<img src="https://tryhackme-badges.s3.amazonaws.com/ashuraweismann.png?update=1" alt="TryHackMe Badge" />
+<img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="200" height="200" alt="TryHackMe Logo" />
 </a>
 </p>
 
@@ -191,4 +187,4 @@ while(alive){
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
-```
+
