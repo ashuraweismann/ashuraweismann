@@ -151,6 +151,11 @@ Mindset:
 + Pentesting Practice
 + Automation Projects
 + AI Security Experiments
++ Intrusion-Detection-Log-Analyzer
++ AI-Avatar-Assistant
++ ctf-knowledge-hub
++ cyber-threat-intelligence-n8n
++ gaming-center-network
 ```
 
 > 🚧 More projects coming soon...
