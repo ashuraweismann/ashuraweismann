@@ -3,9 +3,11 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Kavidu Udayanthe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;CTF+Player+%F0%9F%9A%A9;TryHackMe+Top+9%25+%F0%9F%94%A5;AI+Security+Learner+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast+🔐;CTF+Player+🚩;TryHackMe+Top+9%25+🔥;AI+Security+Learner+🤖;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff41&style=flat" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ashuraweismann&label=Profile%20Views&color=00ff41&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -16,6 +18,7 @@
 
 Name: Kavidu Udayanthe
 Role: Aspiring Cybersecurity Professional
+Education: Computer Engineering Undergraduate @ University of Ruhuna
 Focus: Ethical Hacking | Pentesting | AI Security
 Status: Learning, Building & Breaking Responsibly
 ````
@@ -25,7 +28,10 @@ Status: Learning, Building & Breaking Responsibly
 ```yaml
 Name: Kavidu Udayanthe
 Location: Sri Lanka 🇱🇰
-Education: Computer Engineering Undergraduate University of Ruhuna
+Education:
+  - Computer Engineering Undergraduate
+  - University of Ruhuna
+
 Interests:
   - Penetration Testing
   - Ethical Hacking
@@ -35,8 +41,8 @@ Interests:
   - Security Automation
 
 Current_Goal:
-  Becoming a skilled cybersecurity professional through
-  hands-on labs, CTFs, and real-world practice.
+  Becoming a skilled cybersecurity professional
+  through hands-on labs, CTFs, and practical learning.
 
 Mindset:
   "Learn → Practice → Break → Fix → Repeat"
@@ -46,11 +52,11 @@ Mindset:
 
 ## 🚀 Current Mission
 
-🔐 Improving cybersecurity skills through **hands-on labs & CTFs**
-🤖 Following the **AI Security Learning Path** on TryHackMe
-🏆 **Top 9% on TryHackMe**
-🛠️ Building scripting and security skills through practical projects
-📚 Constantly learning networking, pentesting, and security concepts
+* 🔐 Improving cybersecurity skills through **hands-on labs & CTFs**
+* 🤖 Following the **AI Security Learning Path** on TryHackMe
+* 🏆 **Top 9% on TryHackMe**
+* 🛠️ Building scripting and security skills through practical projects
+* 📚 Continuously learning networking, pentesting, and security concepts
 
 ---
 
@@ -58,21 +64,28 @@ Mindset:
 
 ### 💻 Programming & Scripting
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,bash,java" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,javascript,bash,java,linux,git,vscode" />
 </p>
 
 ### 🔐 Cybersecurity Tools
 
-<p>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff41" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00ff41" />
+
 <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange" />
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff41" />
+
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logoColor=orange" />
+
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=00ff41" />
+
 <img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/JohnTheRipper-000000?style=for-the-badge&logoColor=red" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+
+<img src="https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logoColor=red" />
+
 <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41" />
+
 </p>
 
 ---
@@ -83,10 +96,12 @@ Mindset:
 [✓] Networking Fundamentals
 [✓] Linux Fundamentals
 [✓] Web Security Basics
-[✓] CTF Challenges
 [✓] Enumeration & Recon
 [✓] Password Cracking Basics
+[✓] Wireshark & Traffic Analysis
+[✓] Burp Suite Basics
 [✓] Metasploit Basics
+[✓] CTF Challenges
 [✓] TryHackMe Labs
 [⟳] AI Security Path
 [⟳] Active Directory Security
@@ -98,10 +113,10 @@ Mindset:
 
 ## 🏆 Achievements
 
-🥇 **TryHackMe — Top 9% Global Ranking**
-🚩 Active **CTF Participant**
-🤖 Learning **AI & Machine Learning Security**
-📜 Participated in **TryHackMe 2026: An AI Odyssey**
+* 🥇 **TryHackMe — Top 9% Global Ranking**
+* 🚩 Active **CTF Participant**
+* 🤖 Following the **AI Security Path**
+* 📜 Participated in **TryHackMe 2026: An AI Odyssey**
 
 ---
 
@@ -109,11 +124,13 @@ Mindset:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashuraweismann&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashuraweismann&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuraweismann&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuraweismann&layout=compact&theme=chartreuse-dark&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashuraweismann&theme=chartreuse-dark&hide_border=true"/>
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashuraweismann&theme=chartreuse-dark&hide_border=true" />
 
 </div>
 
@@ -122,7 +139,9 @@ Mindset:
 ## 🏴‍☠️ TryHackMe Profile
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ashuraweismann.png" alt="TryHackMe Badge" />
+<a href="https://tryhackme.com/p/ashuraweismann" target="_blank">
+<img src="https://tryhackme-badges.s3.amazonaws.com/ashuraweismann.png?update=1" alt="TryHackMe Badge" />
+</a>
 </p>
 
 ---
@@ -138,21 +157,27 @@ Mindset:
 + AI Security Experiments
 ```
 
+> 🚧 More projects coming soon...
+
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="www.linkedin.com/in/kavidu-udayanthe-6227a4320">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41"/>
+
+<a href="https://www.linkedin.com/in/kavidu-udayanthe-6227a4320" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" />
+
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 💀 Terminal Quote
+## 💀 Terminal Quote
 
 ```bash
 while(alive){
@@ -163,7 +188,7 @@ while(alive){
 }
 ```
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 ```
